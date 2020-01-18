@@ -1,27 +1,81 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: GSoC Heat
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+## **Timeline**
+![image-title-here](/images/Heat19.png)
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+## **Contest Rules and Guidelines**
+1. Stick to the timeline. We are very strict about timeline since GSoC is very strict at its timeline too and no requests for extension is entertained.
+2. You can submit maximum of 1 proposal only!
+3. Follow the application template as provided.
+4. You are free to discuss about the proposal and take feedback from the maintainers before submission. Make a google doc and give permissions to the specific maintainer of the project to comment on it and give feedback for your proposal.
+5. Share the link of your google doc in our mailing list to make it easier to review it. Create a new thread with topic `GSoC Heat proposal by <your_name>`
+6. Submit the final proposal in pdf format. No changes can be done to your proposal once submitted and you can't resubmit the same proposal. So be sure before you submit the final link.
+7. You can submit the links to the work done during the coding period in a blog post, gist or google doc.
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+## **Proposal Template**
+Find the Proposal template [at this link](https://github.com/NIT-dgp/Guidelines/wiki/Application-Template-for-%22The-GSoC-Heat%22)
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+## **Proposal Submission**
+Submit your proposals [in this google form](https://goo.gl/forms/oLqAgP0Ou94xdiTY2)
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+## **Projects**
+
+Search through the list and find the project for your calling. After which, come ask us about it on [gitter.](https://gitter.im/NIT-dgp/General)
+
+We will be sure to nerd you out with the info about the projects.
+
+## [Audition-Management-System](https://github.com/JayjeetAtGithub/Audition-Management-System)
+
+📒 An Audition Management System primarily for GLUG Auditions
+<br/>
+Language: Python
+<br/>
+
+## [Fearch](https://github.com/NITDgpos/fearch)
+
+The biggest star of NITDgpOS. This is a chrome extension where we can search music,video and books over ftp servers.
+Language: JavaScript
+
+## [freemex](https://github.com/lugnitdgp/freemex)
+
+Online stock market game
+<br/>
+Language: JavaScript
+
+## [freepl_main](https://github.com/lugnitdgp/freepl_main)
+
+FREEPL is a online fantasy cricket game where the player gets to create a team according to the live matches going on around the world.
+<br/>
+Language: Javascript,CSS
+
+## [IntReview](https://github.com/arc9693/IntReview)
+
+An app that records various interview responses and publicise them.
+<br/>
+Language: Python
+
+## [Medium_Grabber](https://github.com/NITDgpoS/Medium_Grabber)
+
+This is an automated program that lets you grab the link of any article under any topic just by logging into your Google-medium account.
+<br/>
+Language: Python
+
+## [onelogger](https://github.com/realsdx/onelogger)
+
+An IP Logger
+<br/>
+Language: Javascript
+
+## [StudentPortal](https://github.com/NIT-DGPortal/StudentPortal)
+
+A customised study portal for NIT Durgapur.
+<br/>
+Language: Python
