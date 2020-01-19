@@ -52,7 +52,7 @@ An Online Code Execution Platform using Jdoodle API
 <br/>
 Language: Python
 
-### [ReviewBook](https://github.com/kulkarni-rajas/ReviewBook)
+### [ReviewBook](https://github.com/lugnitdgp/ReviewBook)
 
 Write Reviews about your favourite Movies
 <br/>
