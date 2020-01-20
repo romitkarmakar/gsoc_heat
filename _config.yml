@@ -1,7 +1,7 @@
 # Site
-title:              NITDgpOS
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              GSoC Heat 4.0
+bio:                ''
+description:        " "
 locale:             en_US
 baseurl: "/gsoc_heat" # the subpath of your site, e.g. /blog
 url: "http://vegotube.me/" # the base hostname & protocol for your site
@@ -12,17 +12,17 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:             
-facebook:           NITDgpOS
-instagram:          
-github:             NITDgpOS
+facebook:           nitdgplug
+instagram:          nitdgplug
+github:             lugnitdgp
 
 # personal
 location:           NIT Durgapur, India
-phone:               
+phone:              
 email:              gs@nitdgplug.org # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   /images/bg.jpg
+background_image:  'images/bg.jpg'
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
